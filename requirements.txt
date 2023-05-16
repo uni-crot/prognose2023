@@ -1,0 +1,7 @@
+numpy
+pandas
+seaborn
+scikit-learn
+google
+google-api-python-client
+google-colab
