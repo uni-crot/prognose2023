@@ -2,7 +2,7 @@
 Для установки всех библиотек используем:
 
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 
 В файле requirements перечислены все используемые в проекте библиотеки
